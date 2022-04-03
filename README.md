@@ -11,4 +11,4 @@ Covers the following topics.
 Introduction to Deep Learning.
 1. Basic CNN model of images.
 2. Basic RNN and report generation for the model with explanation.
-3.
+
